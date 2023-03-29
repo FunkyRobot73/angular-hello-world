@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-hello-world';
+  mission = "This is a journey into Sound!"
 }
